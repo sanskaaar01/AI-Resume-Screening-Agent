@@ -1,4 +1,4 @@
-# 🤖 AI Resume Screening Agent
+# 🤖 AI Resume Screening Agents
 
 An AI-powered resume screening application that analyzes resumes against job descriptions using LLM-based reasoning and ATS-style evaluation.
 
